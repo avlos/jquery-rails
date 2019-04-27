@@ -1,3 +1,11 @@
+# avlos fork of jquery-rails
+
+We always keep the latest version of jquery on our fork and have added
+the jquery migration libraries. This fork is maintained only for support
+reasons to our clients that require migrations from older versions of
+jquery. Please use the [original
+repo](https://github.com/rails/jquery-rails) for production deploys.
+
 # jquery-rails
 
 jQuery! For Rails! So great.
