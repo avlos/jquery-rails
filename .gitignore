@@ -6,3 +6,5 @@ spec/support/*/public/javascripts
 .bundle
 imports/*
 Gemfile.lock
+vendor/ruby
+vendor/bundle
